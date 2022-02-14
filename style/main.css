@@ -38,3 +38,25 @@ header nav a {
 header nav a:hover {
   color: #fff;
 }
+
+
+/* conteúdo principal */
+
+.conteudo-principal {
+    font-size: 16px;
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url(../img/capa-sherlock.jpg);
+    height: 400px;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.conteudo-principal .descricao {
+    margin-bottom: 40px;
+}
+
+.titulo {
+    font-size: 50px;
+}
