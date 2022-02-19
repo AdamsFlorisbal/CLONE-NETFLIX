@@ -22,7 +22,7 @@ header .container {
   justify-content: space-between;
 }
 
-header .Logo {
+header .logo {
   margin-left: 5px;
   color: var(--red);
   font-family: "Arial Black", Times;
