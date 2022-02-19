@@ -14,7 +14,7 @@
   Imagens do Projeto Login.
 </h4>
 
-<a href="img/cloneflix.jpg"><img src="img/cloneflix.jpg"/></a>
+<a href="img/cloneflix.jpeg"><img src="img/cloneflix.jpeg"/></a>
 
 Este projeto foi desenvolvido no decorrer dos meus estudos, com o propósito de aumentar meus conhecimentos com a tecnologia. Eu utizei as tecnologias logo abaixo:
 
